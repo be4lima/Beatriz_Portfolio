@@ -24,10 +24,9 @@ Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical d
 - Exploratory Data Analysis (EDA): Analyzed the relationship between annual deforested area and first-order CO2 emissions, including data visualization to identify trends and correlations.
 - Feature Engineering: Developed and selected relevant features to enhance model accuracy, focusing on the relationship between land use change and CO2 emissions.
 - Model Implementation & Validation: Built a Linear Regression model, validated its assumptions (linearity, homoscedasticity, normality), and evaluated its performance using R-squared and Mean Absolute Error (MAE).
-- 
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/4-4-1.png" width="500" />
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/4-6-2.png" width="500" />
 <img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/4-10-1.png" width="500" />
+<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/4-6-2.png" width="500" />
+
 
 ### [Geospatial analysis of Fire spots in Brazilian forests](https://be4lima.github.io/TG-Beatriz-Lima/aplica%C3%A7%C3%B5es.html#pontos-de-inc%C3%AAndio-nas-florestas-brasileiras)
   - **Data Acquisition & Cleaning**: Collected and processed geospatial data on forest fire occurrences in Brazil, ensuring data quality for analysis.
@@ -35,8 +34,8 @@ Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical d
   - **Data Visualization**: Created detailed maps and visualizations to illustrate the concentration and spread of fire incidents, utilizing tools like `ggplot2`, `sf`, and `leaflet` in R.
   - **Statistical Analysis**: Conducted statistical tests to explore correlations between fire occurrences and various environmental factors.
 
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-18-1.png" width="500" />
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-26-1.png" width="500" />
+<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-18-1.png" width="300" />
+<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-26-1.png" width="300" />
 
 ## [Project 3: K Means Clustering with Masterchef Brasil Data]()
 **Languages**: SQL and Python
