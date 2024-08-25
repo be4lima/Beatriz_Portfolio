@@ -5,7 +5,7 @@
 ## [Project 1: Modelling and prediction of carbon-dioxide emissions by using ARIMA model](https://github.com/be4lima/ARIMA_CO2_BR)
 **Languages**: Python
 
-Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical data and analyze the model's performance in predicting future values.
+Develop an ARIMA model to forecast CO2 emissions in Brazil using historical data and analyze the model's performance in predicting future values.
 
 - Time Series Analysis: Conducted stationarity tests, decomposed time series, and applied differencing to achieve stationarity.
 - Modeling with ARIMA: Used auto_arima to select optimal parameters, fitted the model to historical data, and performed residual analysis.
