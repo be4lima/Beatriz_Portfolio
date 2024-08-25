@@ -34,8 +34,8 @@ Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical d
   - **Data Visualization**: Created detailed maps and visualizations to illustrate the concentration and spread of fire incidents, utilizing tools like `ggplot2`, `sf`, and `leaflet` in R.
   - **Statistical Analysis**: Conducted statistical tests to explore correlations between fire occurrences and various environmental factors.
 
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-18-1.png" width="300" />
-<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-26-1.png" width="300" />
+<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-18-1.png" width="500" />
+<img src="https://be4lima.github.io/TG-Beatriz-Lima/TG-Beatriz-Lima_files/figure-html/6-26-1.png" width="500" />
 
 ## [Project 3: K Means Clustering with Masterchef Brasil Data]()
 **Languages**: SQL and Python
