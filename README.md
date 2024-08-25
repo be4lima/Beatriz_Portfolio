@@ -12,9 +12,9 @@ Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical d
 - Model Evaluation: Assessed model accuracy using RMSE and MAPE, and validated predictions through a train-test split.
 - Outcome: Demonstrated the ARIMA model’s effectiveness in forecasting CO2 emissions and identified areas for future enhancement, such as incorporating exogenous variables.
 
-<img src="https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/1ConsumoCO21901a2022.png" width="400" />
-<img src="https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/7PredictionARIMA010.png" width="400" />
-<img src="https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/8Diagnostics.png" width="400" />
+![CO2 Emission from 1901 to 2022](https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/1ConsumoCO21901a2022.png)
+![Prediction of the model ARIMA (0,1,0)](https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/7PredictionARIMA010.png)
+![Diagnostics of the model ARIMA (0,1,0)](https://github.com/be4lima/Beatriz_Portfolio/blob/main/images/8Diagnostics.png)
 
 ## [Project 3: Data Science applied to Environmental and Urban Engineering](https://be4lima.github.io/TG-Beatriz-Lima/) 
 **Languages**: R and R Markdown
