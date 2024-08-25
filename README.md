@@ -19,6 +19,8 @@ Develop an ARIMA model to forecast $CO_2$ emissions in Brazil using historical d
 ## [Project 3: Data Science applied to Environmental and Urban Engineering](https://be4lima.github.io/TG-Beatriz-Lima/) 
 **Languages**: R and R Markdown
 
+Online booklet created to introduce the concepts and applications of Data Science in Environmental and Urban Engineering in the Systems Analysis and Environmental Modeling discipline at the Federal University of ABC (UFABC).
+
 ### [Modeling the relationship between deforestation and GHG emissions in the Brazilian Amazon using a linear regression model](https://be4lima.github.io/TG-Beatriz-Lima/aplica%C3%A7%C3%A3o-1.html)
 - Data Collection & Cleaning: Acquired real-world data on deforestation and greenhouse gas (GHG) emissions from INPE, cleaned and prepared the dataset for analysis.
 - Exploratory Data Analysis (EDA): Analyzed the relationship between annual deforested area and first-order CO2 emissions, including data visualization to identify trends and correlations.
