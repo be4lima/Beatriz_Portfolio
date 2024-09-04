@@ -1,5 +1,5 @@
 # Portfolio of Data Science and Analytics Projects
-## Beatriz Lima
+## [Beatriz Lima](https://www.linkedin.com/in/beatrizmlima/)
 ### Data Science & Analytics Specialist
 
 ## [Project 1: Modelling and prediction of carbon-dioxide emissions by using ARIMA model](https://github.com/be4lima/ARIMA_CO2_BR)
