@@ -19,7 +19,7 @@ Develop an ARIMA model to forecast CO2 emissions in Brazil using historical data
 ## [Project 2: K Means Clustering with Masterchef Brasil Data](https://github.com/be4lima/MasterchefBrasil)
 **Languages**: SQL and Python
 
-Perform clustering analysis to group contestants based on performance metrics, identifying patterns and similarities among participants.
+Performed clustering analysis to group contestants based on performance metrics, identifying patterns and similarities among participants.
 
 - SQL Database Creation & Management: Built a SQL database to store and manage Masterchef Brasil 2023 data. Conducted data queries and preprocessing using SQL with mysql-connector in Python.
 - Data Preprocessing: Cleaned and prepared the dataset, including handling missing values and normalizing data, to ensure it was ready for clustering analysis.
